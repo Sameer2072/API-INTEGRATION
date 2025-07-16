@@ -38,3 +38,8 @@ Clean, responsive UI development with CSS
 Enhancing user experience through interactivity
 Use Case:
 This Weather App is an excellent tool for beginners and intermediate developers to understand how real-time data-driven applications work. It can be further extended by adding features like 7-day forecasts, map integration, temperature unit conversion, or even saving favourite cities.
+
+
+OUTPUT-
+
+![Image](https://github.com/user-attachments/assets/edba13c9-e9f9-4c00-92f0-43c8fef75d6b)
